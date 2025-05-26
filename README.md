@@ -1,2 +1,0 @@
-# EDABKA_C_asssigment
-EDABKA_C_asssigment
